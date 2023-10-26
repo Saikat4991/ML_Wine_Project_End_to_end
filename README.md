@@ -1,5 +1,4 @@
 # ML_Wine_Project_End_to_end
-
 ## Project Workflow
 1. update config.yaml
 2. update schema.yaml
